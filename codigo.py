@@ -48,7 +48,29 @@ DATABASE = {
             "Eje Números": [90],
             "Eje Álgebra": [85]
         }
-    }
+    },
+    "gian": {
+        "M1": {
+            "Ensayos": ["Abril"],
+            "Puntajes": [810],
+            "Buenas": [52],
+            "Eje Números": [90],
+            "Eje Álgebra": [85]
+        },
+        "Historia": {
+            "Ensayos": ["Febrero","Marzo","Abril"],
+            "Puntajes": [810, 700, 900],
+            "Buenas": [55, 48, 62],
+            "Eje Números": [90, 60, 86],
+            "Eje Álgebra": [85, 70, 83]
+        },
+        "Lenguaje": {
+            "Ensayos": ["Abril"],
+            "Puntajes": [810],
+            "Buenas": [50],
+            "Eje Números": [90],
+            "Eje Álgebra": [85]
+        }
 }
  
 # Configuración de barra lateral izquierda, pide un nombre, dependiendo del usuario, se vén las pruebas que tiene agregadas en la base de datos. Acá no se debe mover nada.
