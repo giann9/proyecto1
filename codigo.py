@@ -52,12 +52,14 @@ DATABASE = {
     "gian": {
         "M1": {
             "Ensayos": ["Abril"],
-            "Puntajes": [810],
-            "Buenas": [52],
-            "Eje Números": [90],
-            "Eje Álgebra": [85]
+            "Puntajes": [923],
+            "Buenas": [57],
+            "Eje Números": [89],
+            "Eje Álgebra": [100]
+            "Eje Geomtría": [94],
+            "Eje Probabilidades": [100]
         },
-        "Historia": {
+        "Ciencias": {
             "Ensayos": ["Febrero","Marzo","Abril"],
             "Puntajes": [810, 700, 900],
             "Buenas": [55, 48, 62],
