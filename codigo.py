@@ -71,8 +71,8 @@ DATABASE = {
             "Eje Números": [90],
             "Eje Álgebra": [85]
         }
-         {
-        }
+    }
+ }
 }
  
 # Configuración de barra lateral izquierda, pide un nombre, dependiendo del usuario, se vén las pruebas que tiene agregadas en la base de datos. Acá no se debe mover nada.
