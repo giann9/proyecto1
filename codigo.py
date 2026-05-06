@@ -53,7 +53,7 @@ DATABASE = {
         "M1": {
             "Ensayos": ["Abril", "Marzo"],
             "Puntajes": [923, 856],
-            "Buenas": [53],
+            "Buenas": [57, 53],
             "Eje Números": [89, 100],
             "Eje Álgebra": [100, 90],
             "Eje Geomtría": [94, 93],
