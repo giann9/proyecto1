@@ -57,7 +57,11 @@ DATABASE = {
             "Eje Números": [89],
             "Eje Álgebra": [100],
             "Eje Geomtría": [94],
-            "Eje Probabilidades": [100]
+            "Eje Probabilidades": [100],
+            "Argumentar": [100],
+            "Modelar": [100],
+            "Representar": [89],
+            "Resolver problemas": [94]
         },
         "Ciencias": {
             "Ensayos": ["Febrero","Marzo","Abril"],
