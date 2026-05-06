@@ -51,17 +51,17 @@ DATABASE = {
     },
     "gian": {
         "M1": {
-            "Ensayos": ["Abril", "Marzo"],
-            "Puntajes": [923, 856],
-            "Buenas": [57, 53],
-            "Eje Números": [89, 100],
-            "Eje Álgebra": [100, 90],
-            "Eje Geomtría": [94, 93],
-            "Eje Probabilidades": [100, 69],
-            "Argumentar": [100, 83],
+            "Ensayos": ["Marzo", "Abril"],
+            "Puntajes": [856, 923],
+            "Buenas": [53, 57],
+            "Eje Números": [100, 89],
+            "Eje Álgebra": [90, 100],
+            "Eje Geomtría": [93, 94],
+            "Eje Probabilidades": [69, 100],
+            "Argumentar": [83, 100],
             "Modelar": [100, 100],
-            "Representar": [89, 75],
-            "Resolver problemas": [94, 91]
+            "Representar": [75, 89],
+            "Resolver problemas": [91, 94]
         },
         "M2": {
             "Ensayos": ["Abril"],
