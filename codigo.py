@@ -55,7 +55,7 @@ DATABASE = {
             "Puntajes": [923],
             "Buenas": [57],
             "Eje Números": [89],
-            "Eje Álgebra": [100]
+            "Eje Álgebra": [100],
             "Eje Geomtría": [94],
             "Eje Probabilidades": [100]
         },
