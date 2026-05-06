@@ -75,6 +75,7 @@ DATABASE = {
             "Modelar": [100],
             "Representar": [81],
             "Resolver problemas": [65]
+        },
         "Ciencias": {
             "Ensayos": ["Febrero","Marzo","Abril"],
             "Puntajes": [810, 700, 900],
